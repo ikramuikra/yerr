@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Sports",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",Frikanalen
+https://frikanalen.no/stream/stream_1.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",KANAL 10 HD
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/35993?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",NRK 1 HD
+http://4iptv.xyz:8080/sofia/sofia/146642?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",National Geographic FHD
+http://4iptv.xyz:8080/sofia/sofia/146655?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",National Geographic Wild FHD [Multi-Sub]
+http://4iptv.xyz:8080/sofia/sofia/146656?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/3U1p695.png" group-title="Legislative",Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/tg1YbfY.png" group-title="Undefined",Stortinget HS1 (576p)
+https://25480cc657998e13839139df392b46eb-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal1_1/playlist.m3u8?dvr=&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/tg1YbfY.png" group-title="Undefined",Stortinget HS2 (576p)
+https://bbe19a83414b545d91f32f94316aab71-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal2_1/playlist.m3u8?dvr=&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/tg1YbfY.png" group-title="Undefined",Stortinget N-202 (576p)
+https://98d91ca32ff6fbca255f6ec9f29fc4d0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal3_1/playlist.m3u8?dvr=&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/tg1YbfY.png" group-title="Undefined",Stortinget Stortingssalen (576p)
+https://bf75c7afaa4f8698042ab38336a843a0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-stortinget_1/playlist.m3u8?dvr=&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",TV Norge HD
+http://4iptv.xyz:8080/sofia/sofia/146646?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",TV2 HD
+http://4iptv.xyz:8080/sofia/sofia/146645?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",TV2 Nyhetskanalen HD
+http://4iptv.xyz:8080/sofia/sofia/146663?checkedby:iptvcat.net
